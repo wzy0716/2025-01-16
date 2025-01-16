@@ -8,3 +8,4 @@ git branches
 
 - `git push origin b1`: pushes the b1 branch to remote
 - similar command for pulling from the remote
+- `git pull origin b1`: pull the b1 branch from the remote
